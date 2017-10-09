@@ -1,0 +1,6 @@
+language: r
+pandoc_version: 1.19
+install:
+  - # Install kindlegen
+script:
+  - .build.sh

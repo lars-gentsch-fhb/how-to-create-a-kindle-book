@@ -1,6 +1,3 @@
-% My Book
-% Lars Gentsch
-
 This is my book! Content before chapters start.
 
 Please add a title page ...
