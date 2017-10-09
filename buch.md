@@ -1,5 +1,5 @@
 % My Book
-% Sam Smith
+% Lars Gentsch
 
 This is my book! Content before chapters start.
 
@@ -29,10 +29,11 @@ To create this book:
 Use the following commands:
 
 * in atom -> View -> Toggle Command Palette -> enter: Pandoc Convert: epub
-* Command line: kindlegen buch.txt.epub
+* or: $ pandoc buch.md -o meinbuch.epub
+* $ kindlegen buch.txt.epub
 
 # Chapter Three
 
 How to create a continuous integration pipeline for an ebook.
 
-Start with using GitHub and TravisCI.
+Start using GitHub and TravisCI.
