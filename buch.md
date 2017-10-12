@@ -1,3 +1,6 @@
+% Titel des Buches
+% Autor des Buches
+
 This is my book! Content before chapters start.
 
 Please add a title page ...
